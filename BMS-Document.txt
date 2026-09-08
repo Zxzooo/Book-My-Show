@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 									Book My Show Clone App Deployment 
 													by
-												Kastro Kiran V
+											K.sibi Karthik
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ****************************************************************************************************************************
 											PART I: Docker Deployment
@@ -287,9 +287,10 @@ Before pasting the pipeline script, do the following changes in the script
 1. In the stage 'Tag and Push to DockerHub', give your docker-hub username. Similar thing you should do in 'Deploy to container' stage.
 2. In post actions stage in pipeline, make sure to give the email id you have configured in jenkins.
 
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+  Important-scripts::
 BMS - Script (Without K8S Stage)
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+$%^$@^%$!@$$%!@$&%
+
 pipeline {
     agent any
     tools {
